@@ -2,7 +2,8 @@
 
 #### 1] The Spark Foundations (February - March 2021) | Data Science and Business Analytics
 
-###### Task: To predict student's score based on study hours.
+###### Task 1: To predict student's score based on study hours.
+###### Task 2: To predict optimal number of clusters.
 
 
 #### 2] Suven Consultants and Technology Pvt Ltd Internship (May 2021) | Data Analytics
